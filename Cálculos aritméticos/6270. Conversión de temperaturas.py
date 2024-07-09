@@ -1,0 +1,5 @@
+C = int(input())
+K = int(C + 273.15)
+F = int((C * 9/5) + 32)
+R = int((4 * C) / 5)
+print(K, F, R)

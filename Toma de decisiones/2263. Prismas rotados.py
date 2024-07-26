@@ -12,4 +12,3 @@ def rotacion(A1, B1, C1, A2, B2, C2):
 A1, B1, C1 = map(int, input().split())
 A2, B2, C2 = map(int, input().split())
 print(rotacion(A1, B1, C1, A2, B2, C2))
-       
